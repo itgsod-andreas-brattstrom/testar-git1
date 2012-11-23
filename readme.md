@@ -4,9 +4,9 @@ En massa text i ett helt vanligt stycke.
 
 ##En onumrerad lista
 
-+Första saken
-+Andra saken
-+tredje saken
++ Första saken
++ Andra saken
++ tredje saken
 
 ##En numrerad lista
 
